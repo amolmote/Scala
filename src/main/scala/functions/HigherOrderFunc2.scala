@@ -13,5 +13,6 @@ object HigherOrderFunc2 {
     println(maths(1,2,3,_ - _))
 
 
+
   }
 }
