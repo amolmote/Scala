@@ -14,5 +14,4 @@ object SimpleHigherOrderFunc {
     println(fullName1("amol","balasaheb","mote",_ + " " + _))
 
   }
-
 }
